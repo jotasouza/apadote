@@ -22,3 +22,7 @@ O Apadote é uma plataforma criada com o intuito de conectar quem deseja adotar 
 - ``MongoDB com Mongoose``
 - ``MVC``
 - ``API RestFul``
+
+## Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Jonatas Souza</sub>](https://github.com/jotasouza)
