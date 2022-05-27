@@ -25,4 +25,4 @@ O Apadote é uma plataforma criada com o intuito de conectar quem deseja adotar 
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Jonatas Souza</sub>](https://github.com/jotasouza)
+[<img src="https://avatars.githubusercontent.com/u/53580034?v=4" width=115><br><sub>Jonatas Souza</sub>](https://github.com/jotasouza)
